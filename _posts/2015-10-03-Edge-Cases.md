@@ -15,20 +15,6 @@ Some edge cases and cautionary examples on using Markdown for writing content us
 The mathjax plugin has been modified to contain all the block style mathjax inside a ```<div class="mathblock">..</div>``` tag wrapper pair
 which fixes many of the issues with conflicts with the Kramdown parser. Some examples sent to me by Quxiaofeng are now parsing correctly, I believe.
 
-This code:
-
-```latex
-{{ "{% math " }} %}
-  D = \left(\begin{matrix}
-  1 & -1 & & & & \\
-  &    & \cdots &   & \\
-  &    &        & 1 & -1
- \end{matrix}
- \right)
-{{ "{% endmath " }}%}
-```
-yields this:
-
 {% math %}
 D = \left(\begin{matrix}
   1 & -1 & & & & \\

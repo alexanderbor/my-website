@@ -1,5 +1,5 @@
 baseurl: 
-    url: "http://alexanderbor.gitlab.io" # the base hostname & protocol for your site 
+    url: "http://alexanderbor.github.io" # the base hostname & protocol for your site 
 title: Alexander Bor
 subtitle: Academic Website
 author: Alexander Bor
