@@ -1,6 +1,5 @@
-baseurl: 
-    url: "http://alexanderbor.github.io" # the base hostname & protocol for your site 
-title: Alexander Bor
+baseurl: "/my-website"
+title: Alexander Bor szasulja
 subtitle: Academic Website
 author: Alexander Bor
 simple_search: http://google.com/search
