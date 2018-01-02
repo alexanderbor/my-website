@@ -1,9 +1,9 @@
-baseurl:
-title: Tufte-Jekyll
-subtitle: Content-centric blogging
-author: clay harmon
+baseurl: alexanderbor.github.io
+title: Alexander Bor
+subtitle: 
+author: Alexander Bor
 simple_search: http://google.com/search
-description: A Jekyll theme for content-rich sites
+description: Academic Website for Alexander Bor
 name: tufte
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
@@ -24,4 +24,4 @@ transfer:
   command: rsync
   settings: -av
   source: _site/
-  destination: ~/Git/clayh53.github.com/
+  destination: 
