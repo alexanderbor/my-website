@@ -1,9 +1,10 @@
-baseurl: alexanderbor.github.io
+baseurl: 
+    url: "http://alexanderbor.gitlab.io" # the base hostname & protocol for your site 
 title: Alexander Bor
-subtitle: 
+subtitle: Academic Website
 author: Alexander Bor
 simple_search: http://google.com/search
-description: Academic Website for Alexander Bor
+description: PhD Student at Political Science Department at Aarhus University
 name: tufte
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
