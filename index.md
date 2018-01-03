@@ -3,9 +3,9 @@ layout: page
 title: About
 ---
 
-# {{ site.author }}
-
 {% marginfigure "margin-figure-id" "assets/img/ab_profile.jpg"%}    
+
+# {{ site.author }}
 
 I am a Ph.D. Candidate at the [Department of Political Science](http://ps.au.dk/en), Aarhus University, Denmark. Broadly, my work focuses on how the evolved human mind navigates modern political and social world. My dissertation is investigating the role of intentions and competence in political leader evaluations. It is relying on quantitative and experimental methods. 
 
