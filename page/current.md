@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: full-width
 title: Current research
 permalink: /current-research/
+weight: 2
 ---
 
 
@@ -9,8 +10,7 @@ permalink: /current-research/
 # Under Review: 
 
 
-Bor A. **Correcting for base-rates in multidimensional who-said-what experiments.**
-
+Bor A. **Correcting for base-rates in multidimensional who-said-what experiments.**  
 ABSTRACT The ‘Who said what?’ protocol is a popular experimental paradigm, which has been used for 40 years to study spontaneous mental categorization. This paper argues that the base-rate correction method used in most multidimensional ‘Who said what?’ studies is flawed. The practice of first correcting the base rates and consequently aggregating errors for the two dimensions separately biases the estimates towards the mean of the two scores. This is demonstrated with a large simulation of over 175,000 experiments and the re-analysis of a pivotal study. The flawed practice biases categorization estimates and may increase both false-positive and false-negative error rates in treatment effects. Researchers should instead aggregate errors for each dimension and then correct for base rates.
 
 Bor A. & Laustsen L. **Partisan motivation and candidate traits - Trustworthiness matters more for out-party than in-party candidate evaluations.**  
